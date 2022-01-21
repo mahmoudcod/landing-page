@@ -38,6 +38,7 @@ header{
 @media (max-width: 768px){
     .nav-links{
         padding-right: 1em;
+        font-size: 15px;
     }
 }
 .nav-link{
