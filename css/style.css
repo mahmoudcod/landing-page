@@ -99,8 +99,7 @@ background-color: transparent;
 }
 @media (max-width: 768px){
     header .cart{
-        padding-right: 0%;
-
+        padding-right: 5px;
     }
 }
 .cover{
@@ -179,9 +178,6 @@ background-color: transparent;
     }
     .laptop-select{
         left: 45%;
-    }
-    header .cart{
-      padding-right: 60px;
     }
     .small-circle{
         left: 10px;
